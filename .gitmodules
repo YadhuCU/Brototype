@@ -1,0 +1,6 @@
+[submodule "Week1/technical_assignment/realme_clone"]
+	path = Week1/technical_assignment/realme_clone
+	url = /home/yadhu/Tutorial/Brototype/Week1/technical_assignment/realme_clone
+[submodule "Week1/technical_assignment/swiggy_clone"]
+	path = Week1/technical_assignment/swiggy_clone
+	url = /home/yadhu/Tutorial/Brototype/Week1/technical_assignment/swiggy_clone/
